@@ -1,0 +1,153 @@
+<page>
+  <title>Ley Estatutaria 1757 de 2015 — Preambulo / Objeto</title>
+  <url>ley-1757-2015#preambulo</url>
+  <content>LEY ESTATUTARIA 1757 DE 2015
+
+(julio 6)
+
+Diario Oficial No. 49.565 de 6 de julio de 2015
+
+CONGRESO DE LA REPÚBLICA
+
+Por la cual se dictan disposiciones en materia de promoción y protección del derecho a la participación democrática.
+
+TÍTULO I.
+
+OBJETO.</content>
+</page>
+
+<page>
+  <title>Ley 1757/2015 — Artículo 1: Objeto</title>
+  <url>ley-1757-2015#art-1</url>
+  <content>ARTÍCULO 1o. OBJETO. El objeto de la presente ley es promover, proteger y garantizar modalidades del derecho a participar en la vida política, administrativa, económica, social y cultural, y así mismo a controlar el poder político.
+
+La presente ley regula la iniciativa popular y normativa ante las corporaciones públicas, el referendo, la consulta popular, la revocatoria del mandato, el plebiscito y el cabildo abierto; y establece las normas fundamentales por las que se regirá la participación democrática de las organizaciones civiles.
+
+La regulación de estos mecanismos no impedirá el desarrollo de otras formas de participación democrática en la vida política, económica, social y cultural, ni el ejercicio de otros derechos políticos no mencionados en esta ley.</content>
+</page>
+
+<page>
+  <title>Ley 1757/2015 — Artículo 2: Política pública de participación democrática</title>
+  <url>ley-1757-2015#art-2</url>
+  <content>ARTÍCULO 2o. DE LA POLÍTICA PÚBLICA DE PARTICIPACIÓN DEMOCRÁTICA. Todo plan de desarrollo debe incluir medidas específicas orientadas a promover la participación de todas las personas en las decisiones que los afectan y el apoyo a las diferentes formas de organización de la sociedad. De igual manera los planes de gestión de las instituciones públicas harán explícita la forma como se facilitará y promoverá la participación de las personas en los asuntos de su competencia.
+
+Las discusiones que se realicen para la formulación de la política pública de participación democrática deberán realizarse en escenarios presenciales o a través de medios electrónicos, cuando sea posible, utilizando las tecnologías de la información y las comunicaciones.</content>
+</page>
+
+<page>
+  <title>Ley 1757/2015 — Artículo 3: Mecanismos de participación</title>
+  <url>ley-1757-2015#art-3</url>
+  <content>ARTÍCULO 3o. MECANISMOS DE PARTICIPACIÓN. Los mecanismos de participación ciudadana son de origen popular o de autoridad pública, según sean promovidos o presentados directamente mediante solicitud avalada por firmas ciudadanas o por autoridad pública en los términos de la presente ley.
+
+Son de origen popular la iniciativa popular legislativa y normativa ante las corporaciones públicas, el cabildo abierto y la revocatoria del mandato; es de origen en autoridad pública el plebiscito; y pueden tener origen en autoridad pública o popular el referendo y la consulta popular.
+
+La participación de la sociedad civil se expresa a través de aquellas instancias y mecanismos que permiten su intervención en la conformación, ejercicio y control de los asuntos públicos. Pueden tener su origen en la oferta institucional o en la iniciativa ciudadana.</content>
+</page>
+
+<page>
+  <title>Ley 1757/2015 — Título II / Capítulo I</title>
+  <url>ley-1757-2015#titulo-2-cap-1</url>
+  <content>TÍTULO II.
+
+DE LOS MECANISMOS DE PARTICIPACIÓN CIUDADANA.
+
+CAPÍTULO I.
+
+REGLAS COMUNES A LOS MECANISMOS DE PARTICIPACIÓN CIUDADANA.</content>
+</page>
+
+<page>
+  <title>Ley 1757/2015 — Artículo 4: Reglas comunes (origen popular)</title>
+  <url>ley-1757-2015#art-4</url>
+  <content>ARTÍCULO 4o. REGLAS COMUNES A LOS MECANISMOS DE PARTICIPACIÓN CIUDADANA DE ORIGEN POPULAR. Las reglas sobre inscripción y recolección de apoyos ciudadanos desarrolladas en este capítulo aplican para Referendos, Iniciativas Legislativas o Normativas, Consultas Populares de Origen Ciudadano y Revocatorias de Mandato, establecidos en esta ley.
+
+PARÁGRAFO. El cabildo abierto se regula por las normas especiales contenidas en la presente ley y no le serán aplicables las normas generales descritas para los otros mecanismos de participación.</content>
+</page>
+
+<page>
+  <title>Ley 1757/2015 — Artículo 5: Promotor y comité promotor</title>
+  <url>ley-1757-2015#art-5</url>
+  <content>ARTÍCULO 5o. EL PROMOTOR Y EL COMITÉ PROMOTOR. Cualquier ciudadano, organización social, partido o movimiento político, podrá solicitar a la Registraduría del Estado Civil correspondiente su inscripción como promotor de un referendo, de una iniciativa legislativa y normativa, de una consulta popular de origen ciudadano o de una revocatoria de mandato.
+
+Cuando se trate de organizaciones sociales y partidos o movimientos políticos, el acta de la sesión, donde conste la determinación adoptada por el órgano competente, según sus estatutos, debe presentarse ante la Registraduría del Estado Civil en el momento de la inscripción. En el acta deben constar los nombres de los ciudadanos que integrarán el Comité promotor, que estará integrado por no menos de tres personas ni más de nueve.
+
+Cuando el promotor sea un ciudadano, él mismo será el vocero de la iniciativa. Cuando se trate de una organización social, partido o movimiento político, el comité promotor designará un vocero.
+
+PARÁGRAFO. Para todos los efectos legales, el vocero del comité promotor será el responsable de las actividades administrativas, financieras, de campaña de la iniciativa popular legislativa o normativa, así como la vocería durante el trámite del referendo, la consulta popular de origen ciudadano o de la revocatoria del mandato.</content>
+</page>
+
+<page>
+  <title>Ley 1757/2015 — Artículo 6: Requisitos para la inscripción</title>
+  <url>ley-1757-2015#art-6</url>
+  <content>ARTÍCULO 6o. REQUISITOS PARA LA INSCRIPCIÓN DE MECANISMOS DE PARTICIPACIÓN CIUDADANA. En el momento de la inscripción, el promotor de cualquier mecanismo de participación ciudadana deberá diligenciar un formulario, diseñado por la Registraduría Nacional del Estado Civil, en el que como mínimo debe figurar la siguiente información:
+
+a) El nombre completo, el número del documento de identificación y la dirección de notificaciones del promotor o de los miembros del Comité promotor;
+
+b) El título que describa la propuesta de mecanismo de participación ciudadana;
+
+c) La exposición de motivos que sustenta la propuesta;
+
+d) El proyecto de articulado, salvo en el caso de las propuestas de revocatoria de mandato.
+
+Inscrito un Comité promotor de un referendo, la Registraduría contará con un plazo de ocho (8) días para verificar el cumplimiento de los requisitos de la iniciativa, a partir del cual contará con un plazo de seis (6) meses para la recolección de los apoyos ciudadanos.
+
+PARÁGRAFO 1o. Se podrán inscribir iniciativas para la revocatoria del mandato siempre que hayan transcurrido doce (12) meses contados a partir del momento de posesión del respectivo alcalde o gobernador y no faltare menos de un año para la finalización del respectivo periodo constitucional.
+
+PARÁGRAFO 2o. La inscripción de iniciativas podrá realizarse a través de medios electrónicos, en cuyo caso deberá utilizarse lenguaje estándar de intercambio de información en el formulario.</content>
+</page>
+
+<page>
+  <title>Ley 1757/2015 — Artículo 7: Registro de propuestas</title>
+  <url>ley-1757-2015#art-7</url>
+  <content>ARTÍCULO 7o. REGISTRO DE PROPUESTAS SOBRE MECANISMOS DE PARTICIPACIÓN CIUDADANA. El registrador correspondiente asignará un número consecutivo de identificación a las propuestas de origen popular sobre mecanismos de participación ciudadana, con el cual indicará el orden en que estos han sido inscritos y la fecha de su inscripción. En el registro se tendrá en cuenta si la propuesta hace referencia a la convocatoria a un referendo, a una iniciativa legislativa o normativa, a una consulta popular de origen ciudadano o a la revocatoria de un mandato, el cual será publicado en la página web de la entidad.</content>
+</page>
+
+<page>
+  <title>Ley 1757/2015 — Artículo 8: Formulario de recolección de apoyos</title>
+  <url>ley-1757-2015#art-8</url>
+  <content>ARTÍCULO 8o. FORMULARIO DE RECOLECCIÓN DE APOYOS CIUDADANOS. La Registraduría del Estado Civil diseñará el formulario de recolección de firmas de ciudadanos que serán entregados gratuitamente al promotor de todo tipo de propuesta sobre mecanismos de participación ciudadana. El formulario de recolección de apoyos deberá contener, como mínimo, los siguientes datos:
+
+a) El número que la Registraduría del Estado Civil le asignó a la propuesta;
+
+b) El resumen del contenido de la propuesta, los motivos de su conveniencia y la invitación a los eventuales firmantes a leerla antes de apoyarla. Dicho resumen no podrá contener alusiones personales ni hacer publicidad personal o comercial;
+
+c) Espacio para que cada ciudadano diligencie, de manera legible, su apoyo a la propuesta con su nombre, número de identificación, firma y fecha de diligenciamiento. Si la persona no supiere escribir, registrará su apoyo con su huella dactilar;
+
+d) El número de apoyos ciudadanos que deberán ser recolectados por el promotor;
+
+e) La fecha en la que vence el plazo para la recolección de apoyos ciudadanos a la propuesta.</content>
+</page>
+
+<page>
+  <title>Ley 1757/2015 — Artículo 9: Cantidad de apoyos a recolectar</title>
+  <url>ley-1757-2015#art-9</url>
+  <content>ARTÍCULO 9o. CANTIDAD DE APOYOS A RECOLECTAR. Para que los mecanismos de participación ciudadana superen la etapa de recolección de apoyos deben presentar ante la correspondiente Registraduría del Estado Civil la cantidad de apoyos determinadas en la Constitución y esta ley.
+
+a) Para que una iniciativa de referendo constitucional, una iniciativa popular de acto legislativo o de ley, o consulta popular nacional de origen ciudadano sea presentada ante el Congreso de la República, o el Senado de la República respectivamente, se requiere del apoyo de un número de ciudadanos igual o superior al 5% del censo electoral en la fecha respectiva;
+
+b) Para presentar una iniciativa de referendo derogatorio de una ley, se requiere del apoyo de un número de ciudadanos igual o superior al diez por ciento (10%) del censo electoral en la fecha respectiva;
+
+c) Para presentar una iniciativa popular normativa de competencia de entidades territoriales se requiere el apoyo de un número de ciudadanos igual o superior al 10% del Censo Electoral vigente en la entidad territorial;
+
+d) Para solicitar una consulta popular de origen ciudadano en las entidades territoriales se requiere del apoyo de un número no menor del diez por ciento (10%) de ciudadanos que hagan parte del respectivo censo electoral;
+
+e) Para presentar una revocatoria de mandato se requiere del apoyo de un número de ciudadanos que hagan parte del censo electoral departamental, municipal o distrital de no menos del treinta por ciento (30%) de los votos obtenidos por el elegido.
+
+PARÁGRAFO 1o. Cuando el número de apoyos válidos obtenidos para un referendo, una iniciativa popular normativa, o una consulta popular de origen ciudadano sea superior al veinte por ciento (20%) del respectivo censo electoral, el Gobierno Departamental, Distrital, Municipal o Local respectivo, o la Corporación Pública de elección popular correspondiente deberá proferir todos los actos necesarios para la realización del referendo, de la consulta popular o trámite de la iniciativa normativa según se trate, en el término de veinte (20) días.
+
+PARÁGRAFO 2o. Los porcentajes del censo electoral señalados en los literales a), b), e) y d) de este artículo se calcularán sobre el censo electoral vigente de la entidad territorial a la fecha en que se realizó la inscripción de la iniciativa.</content>
+</page>
+
+<page>
+  <title>Ley 1757/2015 — Artículo 10: Plazo para la recolección y entrega de formularios</title>
+  <url>ley-1757-2015#art-10</url>
+  <content>ARTÍCULO 10. PLAZO PARA LA RECOLECCIÓN DE APOYOS CIUDADANOS Y ENTREGA DE LOS FORMULARIOS. Inscrita la propuesta de referendo, iniciativa legislativa y normativa, consulta popular de origen ciudadano, o de revocatoria del mandato ante la Registraduría del Estado Civil correspondiente, el Registrador dispondrá de quince días para la elaboración y entrega de los formularios a los promotores, a partir del cual, estos contarán con seis meses para la recolección de las firmas de quienes apoyan la iniciativa. Este plazo podrá ser prorrogado, en caso de fuerza mayor o caso fortuito, debidamente acreditado, hasta por tres meses más, en la forma y por el tiempo que señale el Consejo Nacional Electoral.</content>
+</page>
+
+<page>
+  <title>Ley 1757/2015 — Artículo 11: Entrega de formularios y estados contables</title>
+  <url>ley-1757-2015#art-11</url>
+  <content>ARTÍCULO 11. ENTREGA DE LOS FORMULARIOS Y ESTADOS CONTABLES A LA REGISTRADURÍA. Al vencer el plazo para la recolección de apoyos, el promotor presentará los formularios debidamente diligenciados, al Registrador del Estado Civil correspondiente. Vencido el plazo sin que se haya logrado completar el número de apoyos requeridos, la propuesta será archivada.
+
+Quince días después de la entrega de los formularios de los que trata este artículo, o del vencimiento del plazo para la recolección de firmas, o su prórroga si la hubiere, el promotor o comité promotor deberá entregar los estados contables de la campaña de recolección de apoyos de cualquier propuesta sobre mecanismo de participación ciudadana. En los estados contables figurarán los aportes, en dinero o en especie, que cada persona natural o jurídica realice durante la campaña respectiva.</content>
+</page>
